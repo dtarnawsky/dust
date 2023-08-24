@@ -6696,12 +6696,12 @@
     "artist": "Mark Mennie + Charlie Petrik",
     "category": "Open Playa",
     "location": {
-      "string": "7:30 1600', Open Playa",
+      "string": "8:07 700', Open Playa",
       "category": "Open Playa",
-      "gps_latitude": 40.786400251194,
-      "gps_longitude": -119.20928604408
+      "gps_latitude": 40.787008299843,
+      "gps_longitude": -119.20590053051
     },
-    "location_string": "7:30 1600', Open Playa",
+    "location_string": "8:07 700', Open Playa",
     "images": [
       {
         "thumbnail_url": "./assets/ttitd-2023/images/a2I8X00000hDfBoUAK.webp"
